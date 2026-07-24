@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Anaconda internal folder
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+# OS files
+.DS_Store
+Thumbs.db
