@@ -367,7 +367,7 @@ Predictive-Maintenance-Anomaly-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/Predictive-Maintenance-Anomaly-Detection.git
+git clone https://github.com/shrutishukla19/Predictive-Maintenance-Anomaly-Detection.git
 ```
 
 Install dependencies
